@@ -1,0 +1,14 @@
+{
+  "appId": "com.hydrarr.media",
+  "appName": "Hydrarr",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
